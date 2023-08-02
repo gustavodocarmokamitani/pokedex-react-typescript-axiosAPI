@@ -3,7 +3,7 @@
 
 ### `Access the Project:`
 
-## [[[https://gustavodocarmokamitani.github.io/Portfolio-version-3.0.0/](https://64cabed8c6b87f1c864848ca--kaleidoscopic-mandazi-682ba6.netlify.app/)](https://64cabed8c6b87f1c864848ca--kaleidoscopic-mandazi-682ba6.netlify.app/)](https://64cac0ef1e0ec11ecc6458d6--boisterous-conkies-c202d5.netlify.app/)
+## https://64cac0ef1e0ec11ecc6458d6--boisterous-conkies-c202d5.netlify.app/
 
 --------------------------------------------------------------------------
 
