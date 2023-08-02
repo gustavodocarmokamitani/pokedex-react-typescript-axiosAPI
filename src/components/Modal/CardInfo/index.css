@@ -1,0 +1,113 @@
+.boxCard {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 400px;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    background: rgba(255, 255, 255, 0.2);
+    background-image: url('../../../assets/backgroundPokemons.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -185px 0;
+    border-radius: 16px;
+    box-shadow: 19px 19px 7px -3px rgba(0, 0, 0, 0.1) !important;
+    border: 1px solid rgb(188, 187, 187);
+    color: white !important;
+}
+
+.boxCard h1 {
+    text-transform: uppercase;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.boxCard h3 {
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+}
+
+.boxCard p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #040404;
+    text-transform: uppercase;
+}
+
+.backgroundGrass {
+    background-color: #48d0b0 !important;
+}
+
+.backgroundFighting {
+    background-color: #c12239 !important;
+}
+
+.backgroundFire {
+    background-color: #f57d31 !important;
+}
+
+.backgroundWater {
+    background-color: #76bdfe !important;
+}
+
+.backgroundElectric {
+    background-color: #ffcf4a !important;
+}
+
+.backgroundNormal {
+    background-color: #aaa67f !important;
+}
+
+.backgroundPoison {
+    background-color: #a43e9e !important;
+}
+
+.backgroundBug {
+    background-color: #a7b723 !important;
+}
+
+.backgroundFairy {
+    background-color: #e69eac !important;
+}
+
+.backgroundGhost {
+    background-color: #70559b !important;
+}
+
+.backgroundDragon {
+    background-color: #7037ff !important;
+}
+
+.backgroundDark {
+    background-color: #75574c !important;
+}
+
+.backgroundFlying {
+    background-color: #a891ec !important;
+}
+
+.backgroundGround {
+    background-color: #dec16b !important;
+}
+
+.backgroundRock {
+    background-color: #b69e31 !important;
+}
+
+.backgroundSteel {
+    background-color: #b7b9d0 !important;
+}
+
+.backgroundIce {
+    background-color: #9ad6df !important;
+}
+
+.backgroundPsychic {
+    background-color: #fb5584 !important;
+}
